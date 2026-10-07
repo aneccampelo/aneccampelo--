@@ -1,6 +1,8 @@
 # Oii! Me chamo Cassiane
-- Atualmente estou estudando Programação
-- Trabalho como Auxiliar de Produção
+- Estudando Desenvolvimento Web
+- Aperfeiçoando HTML e CSS
+- Criando Projetos
+- Aprendendo sobre tecnologia
 - ## 📊 GitHub Stats
 
 <div align="center">
